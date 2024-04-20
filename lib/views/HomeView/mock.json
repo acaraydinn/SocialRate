@@ -1,0 +1,17 @@
+{
+     "count":123,
+     "next": "",
+     "previous": "",
+     "results": [
+          {
+               "commenter":1,
+               "commented_on": 1,
+               "comment": "lorem ipsunm",
+               "date":"2024-02-25",
+               "status": true,
+               "up":"",
+               "down":"",
+               "user":""
+          }
+     ]
+}
